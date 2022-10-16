@@ -1,0 +1,9 @@
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1EXAMEN\obj\Debug\WindowsFormsApp1EXAMEN.csprojResolveAssemblyReference.cache
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1EXAMEN\obj\Debug\WindowsFormsApp1EXAMEN.Form1.resources
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1EXAMEN\obj\Debug\WindowsFormsApp1EXAMEN.Properties.Resources.resources
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1EXAMEN\obj\Debug\WindowsFormsApp1EXAMEN.csproj.GenerateResource.Cache
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1EXAMEN\bin\Debug\WindowsFormsApp1EXAMEN.exe.config
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1EXAMEN\bin\Debug\WindowsFormsApp1EXAMEN.exe
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1EXAMEN\bin\Debug\WindowsFormsApp1EXAMEN.pdb
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1EXAMEN\obj\Debug\WindowsFormsApp1EXAMEN.exe
+C:\Users\PC\AppData\Local\Temporary Projects\WindowsFormsApp1EXAMEN\obj\Debug\WindowsFormsApp1EXAMEN.pdb
