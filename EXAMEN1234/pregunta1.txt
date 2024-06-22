@@ -1,0 +1,1 @@
+Entonctrar el elemento de mayor frecuencia para cada columna y ordenar ascendente mente las columnas por ata ulitima fila
